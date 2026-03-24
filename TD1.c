@@ -23,7 +23,7 @@ int main() {
 	int cible = 23;
 	cherche(23, données, 6);
 
-
+//Salut t'es là? 
 	return 0;
 }
 
